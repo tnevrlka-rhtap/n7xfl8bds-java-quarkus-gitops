@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: n7xfl8bds-java-quarkus-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/n7xfl8bds-java-quarkus
